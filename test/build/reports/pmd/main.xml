@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.26.0" timestamp="2021-03-27T16:01:31.677">
+<file name="/Users/ivan.varon/desarrollo/desarrolloAuth/test/src/main/java/co/com/mutant/core/main.java">
+<violation beginline="24" endline="42" begincolumn="33" endcolumn="47" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="co.com.mutant.core" class="main" method="handleRequest" variable="isMutant" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DD'-anomaly for variable 'isMutant' (lines '24'-'42').
+</violation>
+<violation beginline="42" endline="42" begincolumn="33" endcolumn="47" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="co.com.mutant.core" class="main" method="handleRequest" variable="isMutant" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DD'-anomaly for variable 'isMutant' (lines '42'-'42').
+</violation>
+<violation beginline="42" endline="84" begincolumn="37" endcolumn="51" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="co.com.mutant.core" class="main" method="handleRequest" variable="isMutant" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DD'-anomaly for variable 'isMutant' (lines '42'-'84').
+</violation>
+<violation beginline="51" endline="53" begincolumn="26" endcolumn="30" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="co.com.mutant.core" class="main" method="handleRequest" variable="x" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DD'-anomaly for variable 'x' (lines '51'-'53').
+</violation>
+<violation beginline="74" endline="77" begincolumn="26" endcolumn="30" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="co.com.mutant.core" class="main" method="handleRequest" variable="x" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DD'-anomaly for variable 'x' (lines '74'-'77').
+</violation>
+<violation beginline="84" endline="84" begincolumn="37" endcolumn="51" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="co.com.mutant.core" class="main" method="handleRequest" variable="isMutant" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DD'-anomaly for variable 'isMutant' (lines '84'-'84').
+</violation>
+<violation beginline="86" endline="89" begincolumn="32" endcolumn="66" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="co.com.mutant.core" class="main" method="handleRequest" variable="stringBuilder" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DD'-anomaly for variable 'stringBuilder' (lines '86'-'89').
+</violation>
+<violation beginline="86" endline="96" begincolumn="37" endcolumn="71" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="co.com.mutant.core" class="main" method="handleRequest" variable="stringBuilder" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DU'-anomaly for variable 'stringBuilder' (lines '86'-'96').
+</violation>
+<violation beginline="89" endline="89" begincolumn="32" endcolumn="66" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="co.com.mutant.core" class="main" method="handleRequest" variable="stringBuilder" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DD'-anomaly for variable 'stringBuilder' (lines '89'-'89').
+</violation>
+<violation beginline="89" endline="96" begincolumn="32" endcolumn="66" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="co.com.mutant.core" class="main" method="handleRequest" variable="stringBuilder" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DU'-anomaly for variable 'stringBuilder' (lines '89'-'96').
+</violation>
+</file>
+</pmd>
